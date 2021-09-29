@@ -9,6 +9,8 @@
     "test": "jest --watchAll"
   },
   "dependencies": {
+    "@types/react": "^17.0.24",
+    "@types/react-icons": "^3.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-icons": "^4.2.0"
